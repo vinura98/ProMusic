@@ -1,9 +1,9 @@
 {
-  "name": "BLUE GUARD",
+  "name": "evobot",
   "version": "0.9.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <selakavinura.shamal@gmail.com>",
+  "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",

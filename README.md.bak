@@ -24,13 +24,13 @@ Type (npm i) in console
 
 ```json
 {
-  "TOKEN": "OTE0NTM2NzY5NjYyMzg2MTk2.YaOevQ.hwr2eHJAxtzMuPJZKiDhIGMxXM8",
+  "TOKEN": "",
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
   "PRUNING": false,
-  "STAY_TIME": 100,
+  "STAY_TIME": 30,
   "LOCALE": "en",
   "support_server": "",
   "DEFAULT_VOLUME": 100
